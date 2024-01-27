@@ -21,3 +21,4 @@ https://github.com/E-Tejaswini/TicTacToeGame/assets/147268553/38a466c0-158d-45ef
 - Upon running the game, follow the prompts to choose the game mode and board size.
 - Enter the row and column number to place your marker (e.g., X or O).
 - The game will continue until a player wins or the board is full (resulting in a draw).
+- https://github.com/saivedasai/tic-tac-toe-game/assets/156206828/fcee6db2-3663-4bce-8754-bb1834286e41
